@@ -48,7 +48,7 @@ msgstr "Onbekende opdracht"
 msgid ""
 "Success! Books queued for Metadata Backup, please check Tasks for result"
 msgstr ""
-"Test E-Mail wordt verzonden naar %(email)s, controleer de taken voor het "
+"Gelukt! Boeken staan in de wachtrij voor een backup, controleer de taken voor het "
 "resultaat"
 
 #: cps/admin.py:242 cps/editbooks.py:824 cps/editbooks.py:869
@@ -59,7 +59,7 @@ msgstr "Onbekend"
 
 #: cps/admin.py:268
 msgid "Admin page"
-msgstr "Systeembeheer"
+msgstr "Beheerder pagina"
 
 #: cps/admin.py:288
 msgid "Basic Configuration"
@@ -78,7 +78,7 @@ msgstr "Aangepaste kolom Nr.%(column)d bestaat niet in de Calibre Database"
 #: cps/admin.py:368 cps/templates/admin.html:53
 #, fuzzy
 msgid "Edit Users"
-msgstr "Systeembeheerder"
+msgstr "Beheer Gebruikers"
 
 #: cps/admin.py:412 cps/opds.py:525 cps/templates/grid.html:14
 #: cps/templates/list.html:19
@@ -97,19 +97,19 @@ msgstr "{} gebruikers succesvol verwijderd"
 #: cps/admin.py:476 cps/templates/config_view_edit.html:134
 #: cps/templates/user_edit.html:45 cps/templates/user_table.html:81
 msgid "Show All"
-msgstr "Alle talen"
+msgstr "Laat alles zien"
 
 #: cps/admin.py:497 cps/admin.py:503
 msgid "Malformed request"
-msgstr "Misvormd verzoek"
+msgstr "Verkeerd verzoek"
 
 #: cps/admin.py:515 cps/admin.py:2210
 msgid "Guest Name can't be changed"
-msgstr "Gast naam kan niet worden veranderd"
+msgstr "De gast naam kan niet worden veranderd"
 
 #: cps/admin.py:527
 msgid "Guest can't have this role"
-msgstr "Gast kan deze rol niet hebben"
+msgstr "Gast gebruiker kan deze rol niet hebben"
 
 #: cps/admin.py:539 cps/admin.py:2164
 msgid "No admin user remaining, can't remove admin role"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: cps/admin.py:543 cps/admin.py:557
 msgid "Value has to be true or false"
-msgstr "Waarde moet Waar of Onwaar zijn"
+msgstr "Waarde moet waar of fout zijn"
 
 #: cps/admin.py:545
 msgid "Invalid role"
@@ -135,11 +135,11 @@ msgstr "Ongeldige waarde"
 #: cps/admin.py:562
 msgid "Guest's Locale is determined automatically and can't be set"
 msgstr ""
-"Gasts locale is automatisch bepaald en kan niet handmatig worden ingesteld"
+"Gast gebruiker landinstellingen is automatisch bepaald en kan niet handmatig worden ingesteld"
 
 #: cps/admin.py:566
 msgid "No Valid Locale Given"
-msgstr "Geen geldige locale is opgegeven"
+msgstr "Geen geldige landinstellingen zijn opgegeven"
 
 #: cps/admin.py:577
 msgid "No Valid Book Language Given"
@@ -151,11 +151,11 @@ msgstr "Parameter is niet gevonden"
 
 #: cps/admin.py:616
 msgid "Invalid Read Column"
-msgstr "Ongeldige gelezen kolom"
+msgstr "Ongeldig gelezen kolom"
 
 #: cps/admin.py:622
 msgid "Invalid Restricted Column"
-msgstr "Ongeldige beperkte kolom"
+msgstr "Ongeldig beperkte kolom"
 
 #: cps/admin.py:642 cps/admin.py:2021
 #, fuzzy
@@ -182,7 +182,7 @@ msgstr "Weet je zeker dat je deze boekenplank wilt verwijderen?"
 #, fuzzy
 msgid "Are you sure you want to change locales of selected user(s)?"
 msgstr ""
-"Weet je zeker dat je de locales van de geselecteerde gebruiker(s) wil "
+"Weet je zeker dat je de taalinstellingen van de geselecteerde gebruiker(s) wil "
 "veranderen?"
 
 #: cps/admin.py:664
